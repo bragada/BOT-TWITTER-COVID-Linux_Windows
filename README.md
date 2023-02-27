@@ -2,7 +2,7 @@
 
 O material desse repositório é um projeto desenvolvido por mim: https://www.linkedin.com/in/henrique-bragada-6a5967222/
 
-O conjunto de arquivos desse repositório tem como objetivo publicar semanalmente tweets com o número de casos confirmados de COVID dentro dos ambientes hospitalares da UNICAMP, disponibilizados em https://transparencia.unicamp.br/, em uma conta no TWITTER. 
+O conjunto de arquivos desse repositório tem como objetivo publicar semanalmente tweets com o número de casos confirmados de COVID dentro dos ambientes hospitalares da UNICAMP, disponibilizados em https://transparencia.unicamp.br/, em uma conta no TWITTER (no caso a conta utilizada por mim se encontra em: https://twitter.com/HKBragada). 
 
 O projeto visa demonstrar parte do meu conhecimento em web scraping e tarefas de automação dentro da web/internet utilizando a linguagem de programação R.
 
