@@ -1,4 +1,4 @@
-# BOT-TWITTER-COVID
+# BOT-TWITTER-COVID - Linux e Windows
 
 O material desse repositório é um projeto desenvolvido por mim: https://www.linkedin.com/in/henrique-bragada-6a5967222/
 
