@@ -1,0 +1,2 @@
+taskscheduleR::taskscheduler_create(taskname = "bot_twitter", rscript = system.file("bot", "bot_twitter.R", package = "taskscheduleR"), 
+                     schedule = "WEEKLY", starttime = "13:54", days = 'MON')
