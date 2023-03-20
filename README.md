@@ -14,4 +14,5 @@ O arquivo bot_twitter.R é um script criado a partir da linguagem R. O script é
   * Logar em uma conta do TWITTER (https://twitter.com/HKBragada)
   * Publicar um tweet com o número de casos confirmados em casa ambiente hospitalar 
   
-Tal script é executado de forma automática e periódica a partir de uma execução única do script automacao_bot_twitter.R, de modo que, as tarefas realizadas em bot_twitter.R podem ser programadas para serem repetidas segundo a frequência e horário inseridas em automacao_bot_twitter.R, segundo as regras de expressão crontab que podem ser melhor compreendidas em: https://crontab.guru/
+Tal script é executado de forma automática e periódica a partir de uma execução única do script automacao_bot_twitter.R, de modo que, as tarefas realizadas em bot_twitter.R podem ser programadas para serem repetidas segundo a frequência e horário inseridas em automacao_bot_twitter.R, segundo as regras de expressão crontab que podem ser melhor compreendidas em: https://crontab.guru/. Para a parte de automação foi usado no linux o pacote do R chamado "cronR" e no windows o "taskscheduleR"
+
